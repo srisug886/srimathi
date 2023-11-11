@@ -1,0 +1,8 @@
+# Another example of Python code using if-else statement
+
+number = 5  # Modify the number to produce different results
+
+if number % 2 == 0:
+    print("Number is even.")
+else:
+    print("Number is odd.")
